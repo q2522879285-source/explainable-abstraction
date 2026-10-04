@@ -1,0 +1,4 @@
+interface:
+  display_name: "可解释抽象落地"
+  short_description: "把抽象结论转成易懂说明、可检查结构与可执行产物"
+  default_prompt: "Use $explainable-abstraction to turn this abstract result into a human-readable, checkable, and actionable deliverable."
