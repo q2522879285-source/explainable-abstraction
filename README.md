@@ -6,6 +6,8 @@
 
 这是一份跨领域 Skill：它负责理解与落地之间的转换，不替代影视、数据、代码、网页或其他领域 Skill。
 
+![竖版一图流](poster.png)
+
 ## 适合什么时候用
 
 - 需要把复杂结论讲给非专业读者
@@ -105,3 +107,4 @@ Use $explainable-abstraction to turn this abstract result into a human-readable,
 ## License
 
 MIT，见 [`LICENSE`](LICENSE)。
+
